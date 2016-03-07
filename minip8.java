@@ -4,7 +4,7 @@
    ID: 120584075
    About: program is a music quiz which can be played by multiple players. it asks each question in rounds, sequentially, player after player, before moving to the next round. It records their scores for each round and displays the sum of their scores for all rounds when the program is over.
 
-   I/O implementation: if the program is terminated when it has gotten the number of players and usernames. it starts over from round one, and keeps starting over unless the players complete the game.
+   I/O implementation: Aim: if the program is terminated when it has gotten the number of players and usernames. it starts over from round one, and keeps starting over unless the players complete the game.
  
    *********************************************************************** */
 
